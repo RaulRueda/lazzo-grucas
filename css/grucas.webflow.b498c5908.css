@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 11 2022 07:33:51 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 11 2022 19:35:16 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -20719,6 +20719,18 @@ figcaption {
     margin-top: 24px;
   }
 
+  .button.header {
+    position: static;
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
   .button-round.button-round-small.gallery-button-left {
     display: none;
   }
@@ -21736,6 +21748,8 @@ figcaption {
   }
 
   .texto-cuerpo {
+    width: auto;
+    height: auto;
     text-align: center;
   }
 
@@ -21745,6 +21759,11 @@ figcaption {
   }
 
   .texto-cuerpo.color-blanco {
+    text-align: center;
+  }
+
+  .titulo-1 {
+    margin-top: 20px;
     text-align: center;
   }
 
@@ -22697,6 +22716,14 @@ figcaption {
     margin-bottom: 32px;
   }
 
+  .content-text-wrap {
+    width: 100%;
+    height: 100%;
+    padding-right: 0px;
+    padding-bottom: 10%;
+    padding-left: 0px;
+  }
+
   .div-block-19 {
     display: none;
   }
@@ -22746,6 +22773,18 @@ figcaption {
 
   .benefits {
     text-align: left;
+  }
+
+  .div-block-26 {
+    display: none;
+  }
+
+  .div-block-27 {
+    display: none;
+  }
+
+  .div-block-28 {
+    display: none;
   }
 }
 
