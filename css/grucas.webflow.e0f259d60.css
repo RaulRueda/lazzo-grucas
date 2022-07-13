@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 13 2022 04:03:07 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jul 13 2022 04:09:09 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -20992,10 +20992,24 @@ figcaption {
 
   .industrias-1 {
     padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .image-27 {
+    display: none;
   }
 
   .industria-2 {
     padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .div-block-19 {
+    display: none;
+  }
+
+  .div-block-20 {
+    display: none;
   }
 
   .tabs-menu-menu {
@@ -21034,6 +21048,10 @@ figcaption {
     margin-top: 36px;
   }
 
+  .div-block-26 {
+    display: none;
+  }
+
   .slider-4 {
     display: none;
     margin-top: 0px;
@@ -21041,6 +21059,10 @@ figcaption {
 
   .industrias-moda {
     padding-top: 20px;
+  }
+
+  .icon-bar {
+    display: none;
   }
 
   .tabs-vertical {
@@ -23357,6 +23379,11 @@ figcaption {
     padding-right: 10px;
     padding-left: 10px;
     text-align: justify;
+  }
+
+  .grid-8 {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
   }
 }
 
@@ -26188,6 +26215,19 @@ figcaption {
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
     grid-row-end: span 1;
+  }
+
+  #w-node-c1f79ee0-1360-fa29-a48e-eda60ce69c27-bc2216c3 {
+    -ms-grid-column-align: auto;
+    justify-self: auto;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
   }
 
   #w-node-_6b8e7468-8dab-5ca9-6dc3-3f330214f1eb-a82216c4 {
