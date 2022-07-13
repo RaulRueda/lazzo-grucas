@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 13 2022 04:09:09 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jul 13 2022 04:23:45 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -272,6 +272,7 @@ figcaption {
 }
 
 .section {
+  display: none;
   padding-top: 96px;
   padding-bottom: 96px;
 }
@@ -16795,6 +16796,7 @@ figcaption {
 .icon-bar {
   padding-top: 5%;
   padding-bottom: 5%;
+  background-color: #fff;
 }
 
 .texto-cuerpo-2-copy {
@@ -24593,6 +24595,37 @@ figcaption {
   justify-self: auto;
 }
 
+#w-node-_37c5c605-343c-8b03-6272-139087f33830-bc2216c3 {
+  -ms-grid-column-align: start;
+  justify-self: start;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}
+
+#w-node-_37c5c605-343c-8b03-6272-139087f33831-bc2216c3 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_37c5c605-343c-8b03-6272-139087f33832-bc2216c3 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
 #w-node-d6556af1-43d4-1e94-e199-f951165ef2dc-a82216c4 {
   -ms-grid-column-align: end;
   justify-self: end;
@@ -25695,6 +25728,59 @@ figcaption {
   }
 
   #w-node-_0c47b012-544c-9b86-f24b-005fbb3b746d-6d2216a9 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_37c5c605-343c-8b03-6272-139087f33830-bc2216c3 {
+    -ms-grid-column-align: start;
+    justify-self: start;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  #w-node-_37c5c605-343c-8b03-6272-139087f33835-bc2216c3 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_37c5c605-343c-8b03-6272-139087f3383a-bc2216c3 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_37c5c605-343c-8b03-6272-139087f3383f-bc2216c3 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_37c5c605-343c-8b03-6272-139087f33844-bc2216c3 {
     -ms-grid-column: span 1;
     grid-column-start: span 1;
     -ms-grid-column-span: 1;
