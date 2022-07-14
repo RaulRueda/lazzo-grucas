@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 13 2022 04:23:45 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 03:31:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -14096,6 +14096,11 @@ figcaption {
   align-items: center;
 }
 
+.icon-1 {
+  max-height: 45px;
+  max-width: 34px;
+}
+
 .div-block-15 {
   display: none;
   padding-top: 30px;
@@ -15172,6 +15177,7 @@ figcaption {
   display: flex;
   width: 40px;
   height: 40px;
+  margin-bottom: 5%;
   padding: 6px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -15248,6 +15254,7 @@ figcaption {
   display: flex;
   width: 40px;
   height: 40px;
+  margin-bottom: 5%;
   padding: 6px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
