@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 14 2022 03:31:03 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 04:02:26 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -15889,8 +15889,10 @@ figcaption {
 
 .radio-button-label {
   margin-bottom: 0px;
-  color: #494a7d;
+  font-family: 'Founders Grotesk', sans-serif;
+  color: #57585b;
   font-size: 16px;
+  font-weight: 500;
 }
 
 .form-content {
