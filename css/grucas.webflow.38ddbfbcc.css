@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 15 2022 18:42:35 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 15 2022 19:24:32 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -15931,9 +15931,13 @@ figcaption {
 }
 
 .success-message-4 {
+  width: 100%;
+  height: 100%;
   padding: 60px 50px 50px;
   background-color: #e2e8e8;
   letter-spacing: 1px;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 .form-wrapper-2 {
@@ -16104,6 +16108,7 @@ figcaption {
 }
 
 .error-message-3 {
+  margin-top: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
@@ -16952,6 +16957,16 @@ figcaption {
 
 .checkbox-field {
   padding-top: 0px;
+}
+
+.error-message-text {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  font-family: 'Founders Grotesk', sans-serif;
+  color: #57585b;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 @media screen and (min-width: 1280px) {
@@ -21020,6 +21035,11 @@ figcaption {
     margin-bottom: 60px;
   }
 
+  .title-1 {
+    font-size: 42px;
+    line-height: 38px;
+  }
+
   .industrias-1 {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -23285,6 +23305,13 @@ figcaption {
     margin-bottom: 32px;
   }
 
+  .button-wrap {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
   .grid-single-column-skye {
     max-width: 100%;
   }
@@ -23297,6 +23324,15 @@ figcaption {
     padding-right: 0px;
     padding-bottom: 10%;
     padding-left: 0px;
+  }
+
+  .title-1 {
+    font-size: 42px;
+    line-height: 38px;
+  }
+
+  .title-1.center {
+    text-align: center;
   }
 
   .div-block-19 {
