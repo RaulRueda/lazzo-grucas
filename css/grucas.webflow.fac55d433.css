@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 15 2022 03:21:43 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 15 2022 18:42:35 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -15931,7 +15931,8 @@ figcaption {
 }
 
 .success-message-4 {
-  padding: 50px;
+  padding: 60px 50px 50px;
+  background-color: #e2e8e8;
   letter-spacing: 1px;
 }
 
@@ -16942,6 +16943,11 @@ figcaption {
   height: 15px;
   margin-top: 7px;
   margin-right: 14px;
+}
+
+.checkbox-2.w--redirected-checked {
+  border-color: #ee891e;
+  background-color: #ee891e;
 }
 
 .checkbox-field {
@@ -21315,6 +21321,7 @@ figcaption {
 
   .rounded-large {
     display: block;
+    overflow: hidden;
     height: 100%;
     max-height: 100%;
     min-height: 19%;
@@ -22291,6 +22298,7 @@ figcaption {
   }
 
   .texto-cuerpo.color-blanco.margen-derecho {
+    overflow: hidden;
     width: 100%;
     height: 100%;
     max-height: 100%;
