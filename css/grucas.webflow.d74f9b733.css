@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 14 2022 20:55:48 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 15 2022 03:21:43 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -16807,7 +16807,7 @@ figcaption {
 .icon-bar {
   padding-top: 5%;
   padding-bottom: 5%;
-  background-color: #fff;
+  background-color: #f7f7f7;
 }
 
 .texto-cuerpo-2-copy {
@@ -22276,6 +22276,8 @@ figcaption {
   .texto-cuerpo {
     width: auto;
     height: auto;
+    padding-right: 10px;
+    padding-left: 10px;
     text-align: center;
   }
 
@@ -22303,6 +22305,12 @@ figcaption {
     width: 100%;
     height: 100%;
     margin-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     text-align: center;
   }
 
@@ -23408,6 +23416,15 @@ figcaption {
   .grid-8 {
     grid-column-gap: 8px;
     grid-row-gap: 8px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .grid-8-servicios {
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
