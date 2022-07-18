@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 15 2022 21:53:45 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 21:37:39 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -14106,7 +14106,8 @@ figcaption {
 
 .icon-1 {
   max-height: 45px;
-  max-width: 34px;
+  max-width: 45px;
+  line-height: 16px;
 }
 
 .div-block-15 {
@@ -14518,7 +14519,7 @@ figcaption {
   width: auto;
   height: 100px;
   margin-top: 0px;
-  margin-bottom: -17px;
+  margin-bottom: 0px;
   padding-top: 0rem;
   padding-bottom: 0rem;
   -webkit-box-pack: start;
@@ -22498,6 +22499,12 @@ figcaption {
     text-align: center;
   }
 
+  .titulo_1_blanco.color-naranja.maritimo {
+    display: block;
+    width: 288px;
+    max-width: 320px;
+  }
+
   .layout351_column-horiztonal-text {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -22556,16 +22563,26 @@ figcaption {
   }
 
   .titulo-1 {
-    width: 320px;
+    width: 100%;
     height: 100%;
     max-width: 320px;
     margin-top: 20px;
+    margin-right: 0px;
     padding-right: 10px;
     padding-left: 10px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     text-align: center;
   }
 
@@ -23415,6 +23432,8 @@ figcaption {
   .icon-1 {
     width: 99.999909%;
     height: 68%;
+    max-height: 100%;
+    max-width: 100%;
   }
 
   .testimonial-slider-wrapper-2 {
@@ -23732,6 +23751,10 @@ figcaption {
 
   .succes-buttom.detailed-box-button {
     margin-top: 24px;
+  }
+
+  .text-span-8 {
+    color: #ee891e;
   }
 }
 
