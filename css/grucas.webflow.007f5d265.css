@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 21:37:39 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 22:24:46 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -17162,6 +17162,26 @@ figcaption {
 .succes-buttom.color-gris {
   border-color: transparent;
   background-color: #57585b;
+}
+
+.text-span-8 {
+  color: #ee891e;
+}
+
+.text-span-9 {
+  color: #ee891e;
+}
+
+.text-span-10 {
+  color: #ee891e;
+}
+
+.text-span-11 {
+  color: #ee891e;
+}
+
+.text-span-12 {
+  color: #ee891e;
 }
 
 @media screen and (min-width: 1280px) {
