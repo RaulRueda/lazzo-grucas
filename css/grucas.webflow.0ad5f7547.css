@@ -1,4 +1,4 @@
-/* Generated on: Tue Jul 19 2022 14:21:42 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Jul 19 2022 14:38:00 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -93,7 +93,7 @@
   border-bottom-color: #3898ec;
   border-left-color: #3898ec;
   border-right-color: #3898ec;
-  background-image: url(/images/custom-checkbox-checkmark.589d534424.svg);
+  background-image: url(../images/custom-checkbox-checkmark.589d534424.svg);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -8217,7 +8217,7 @@ figcaption {
   padding-right: 5%;
   padding-left: 0%;
   background-color: #57585b;
-  background-image: url("/images/62b4f332afa4af6a2a25fd95_mapa_completo_fondo_footer%20(1).png");
+  background-image: url("/images/62b4f332afa4af6a2a25fd95_mapa_completo_fondo_footer%20%281%29.png");
   background-position: 0% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -12123,7 +12123,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #e2e8e8;
-  background-image: url("/images/62be29701c19fb25c81876da_Disen%CC%83o%20sin%20ti%CC%81tulo%20(17).png");
+  background-image: url("/images/62be29701c19fb25c81876da_Disen%CC%83o%20sin%20ti%CC%81tulo%20%2817%29.png");
   background-position: 0px 0px;
   background-size: cover;
   color: #fff;
@@ -16387,7 +16387,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #e2e8e8;
-  background-image: url("/images/62c38b55fb36cf2ac7522983_Disen%CC%83o%20sin%20ti%CC%81tulo%20(17).png");
+  background-image: url("/images/62c38b55fb36cf2ac7522983_Disen%CC%83o%20sin%20ti%CC%81tulo%20%2817%29.png");
   background-position: 0px 0px;
   background-size: cover;
   color: #fff;
@@ -17323,7 +17323,7 @@ figcaption {
 
   .main-container-map-cta {
     background-color: transparent;
-    background-image: url("/images/62b4f332afa4af6a2a25fd95_mapa_completo_fondo_footer%20(1).png");
+    background-image: url("/images/62b4f332afa4af6a2a25fd95_mapa_completo_fondo_footer%20%281%29.png");
     background-size: contain;
   }
 
