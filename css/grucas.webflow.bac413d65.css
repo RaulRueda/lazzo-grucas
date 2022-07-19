@@ -1,4 +1,4 @@
-/* Generated on: Tue Jul 19 2022 14:16:26 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Jul 19 2022 14:21:42 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -16923,6 +16923,8 @@ figcaption {
 .grid-8 {
   width: 100%;
   height: 77%;
+  grid-column-gap: 10px;
+  grid-row-gap: 8px;
   -ms-grid-rows: auto auto auto auto;
   grid-template-rows: auto auto auto auto;
 }
@@ -16930,6 +16932,8 @@ figcaption {
 .grid-8-servicios {
   width: 100%;
   height: 77%;
+  grid-column-gap: 10px;
+  grid-row-gap: 8px;
   -ms-grid-columns: 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   -ms-grid-rows: auto auto auto auto;
@@ -17185,6 +17189,25 @@ figcaption {
 
 .text-span-12 {
   color: #ee891e;
+}
+
+.button-wrap-slide-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: -20px;
+  padding-top: 0px;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-top: 1px none #dfdfe8;
 }
 
 @media screen and (min-width: 1280px) {
@@ -23778,6 +23801,13 @@ figcaption {
 
   .text-span-8 {
     color: #ee891e;
+  }
+
+  .button-wrap-slide-2 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 }
 
