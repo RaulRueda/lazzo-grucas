@@ -1,4 +1,4 @@
-/* Generated on: Tue Jul 19 2022 23:01:18 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jul 20 2022 02:32:26 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -14131,7 +14131,7 @@ figcaption {
 }
 
 .section-testimonial1 {
-  display: none;
+  display: block;
 }
 
 .testimonial1_component {
@@ -14500,6 +14500,7 @@ figcaption {
   display: flex;
   overflow: hidden;
   width: 100vw;
+  padding-bottom: 25px;
   border-bottom: 1px solid transparent;
   background-color: #ee891e;
 }
@@ -14580,6 +14581,7 @@ figcaption {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
+  color: #fff;
   font-size: 2rem;
   line-height: 1.4;
   font-weight: 700;
@@ -17212,6 +17214,86 @@ figcaption {
   border-top: 1px none #dfdfe8;
 }
 
+.banner11_component-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100vw;
+  padding-bottom: 25px;
+  border-bottom: 1px solid transparent;
+  background-color: #ee891e;
+}
+
+.banner11_component-2-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100vw;
+  padding-bottom: 0px;
+  border-bottom: 1px solid transparent;
+  background-color: #ee891e;
+}
+
+.heading-xsmall-2-4 {
+  position: static;
+  height: 50px;
+  max-height: 50px;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 700;
+  text-align: center;
+}
+
+.banner11_component-2-3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100vw;
+  padding-bottom: 0px;
+  border-bottom: 1px solid transparent;
+  background-color: #ee891e;
+}
+
+.banner11_wrapper-copy {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 200vw;
+  margin-bottom: 5px;
+  padding-bottom: 25px;
+  background-color: #ee891e;
+}
+
+.banner11_component-2-3-copy {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 100vw;
+  padding-bottom: 25px;
+  border-bottom: 1px solid transparent;
+  background-color: #ee891e;
+}
+
+.icon-1-5 {
+  max-height: 45px;
+  max-width: 45px;
+  line-height: 16px;
+}
+
 @media screen and (min-width: 1280px) {
   .section.bg-primary-light-blue {
     padding-top: 100px;
@@ -17478,6 +17560,14 @@ figcaption {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
+  .banner11_component-2-3 {
+    padding-bottom: 25px;
+  }
+
+  .banner11_component-2-3-copy {
+    padding-bottom: 25px;
+  }
 }
 
 @media screen and (min-width: 1440px) {
@@ -17647,6 +17737,10 @@ figcaption {
 
   .home-3-main-heading-wrapper {
     max-width: 560px;
+  }
+
+  .faq-section {
+    text-transform: none;
   }
 
   .texto-cuerpo-min.margin-0 {
@@ -17957,6 +18051,27 @@ figcaption {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+  }
+
+  .banner11_component-2 {
+    padding-bottom: 0px;
+  }
+
+  .banner11_component-2-2 {
+    padding-bottom: 0px;
+  }
+
+  .heading-xsmall-2-4 {
+    font-size: 29px;
+    font-weight: 700;
+  }
+
+  .banner11_component-2-3 {
+    padding-bottom: 25px;
+  }
+
+  .banner11_component-2-3-copy {
+    padding-bottom: 25px;
   }
 }
 
@@ -21176,6 +21291,10 @@ figcaption {
     background-image: none;
   }
 
+  .banner11_component {
+    display: none;
+  }
+
   .heading-xsmall-2 {
     font-size: 1.125rem;
   }
@@ -21401,6 +21520,26 @@ figcaption {
   .succes-buttom.detailed-box-button {
     margin-top: 36px;
   }
+
+  .banner11_component-2 {
+    display: none;
+  }
+
+  .banner11_component-2-2 {
+    display: none;
+  }
+
+  .heading-xsmall-2-4 {
+    font-size: 1.125rem;
+  }
+
+  .banner11_component-2-3 {
+    display: none;
+  }
+
+  .banner11_component-2-3-copy {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -21523,9 +21662,26 @@ figcaption {
     top: auto;
     right: auto;
     bottom: 0%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 52.5825%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
     -webkit-align-self: center;
     -ms-flex-item-align: center;
-    -ms-grid-row-align: center;
     align-self: center;
   }
 
@@ -22610,6 +22766,10 @@ figcaption {
     align-self: auto;
   }
 
+  .texto-cuerpo.beneficio {
+    text-align: left;
+  }
+
   .titulo-1 {
     width: 100%;
     height: 100%;
@@ -23477,10 +23637,20 @@ figcaption {
     grid-template-columns: 1fr;
   }
 
+  .div-block-12 {
+    max-height: 69px;
+    max-width: 288px;
+  }
+
+  .div-block-13 {
+    max-height: 69px;
+    max-width: 53.296875px;
+  }
+
   .icon-1 {
-    width: 99.999909%;
+    width: 99.999946%;
     height: 68%;
-    max-height: 100%;
+    max-height: 68%;
     max-width: 100%;
   }
 
@@ -23520,6 +23690,10 @@ figcaption {
     grid-template-columns: 1fr minmax(50px, 50px);
     -ms-grid-rows: auto;
     grid-template-rows: auto;
+  }
+
+  .banner11_component {
+    display: none;
   }
 
   .button-megamenu.form-horizontal-button {
@@ -23810,6 +23984,35 @@ figcaption {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+  }
+
+  .banner11_component-2 {
+    display: none;
+  }
+
+  .banner11_component-2-2 {
+    display: none;
+  }
+
+  .banner11_component-2-3 {
+    display: none;
+  }
+
+  .banner11_component-2-3-copy {
+    display: none;
+  }
+
+  .image-31 {
+    width: 100%;
+    height: 100%;
+    max-height: 68%;
+  }
+
+  .icon-1-5 {
+    width: 80%;
+    height: 68%;
+    max-height: 68%;
+    max-width: 100%;
   }
 }
 
