@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 13:56:58 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 13:59:26 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -19197,6 +19197,24 @@ figcaption {
   margin-left: auto;
 }
 
+.container-article {
+  width: 100%;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0%;
+  padding-left: 0%;
+  background-color: transparent;
+}
+
+.container-article.calidad {
+  max-width: 90rem;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
 @media screen and (min-width: 1280px) {
   .section.bg-primary-light-blue {
     padding-top: 100px;
@@ -20074,6 +20092,24 @@ figcaption {
 
   .titulo-blogs-relacionados {
     padding-left: 18vw;
+  }
+
+  .container-article {
+    max-width: 80rem;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
+  .container-article.calidad {
+    max-width: 80rem;
+    padding-right: 0%;
+    padding-left: 0%;
   }
 }
 
@@ -26297,6 +26333,12 @@ figcaption {
 
   .section-blog-sugeridos {
     overflow: hidden;
+  }
+
+  .container-article {
+    height: 100.00031%;
+    padding-right: 18px;
+    padding-left: 18px;
   }
 }
 
