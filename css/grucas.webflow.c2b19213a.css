@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 15:07:01 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 15:40:00 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -907,6 +907,10 @@ figcaption {
 
 .text-large.article-subtitle {
   margin-bottom: 36px;
+}
+
+.text-large.article-subtitle.text-white {
+  font-size: 18px;
 }
 
 .text-large.getting-started-intro-text {
@@ -2850,6 +2854,10 @@ figcaption {
   -webkit-transition-property: none;
   transition-property: none;
   color: #e2e8e8;
+}
+
+.hover-link.text-white.hidden {
+  display: none;
 }
 
 .footer-2 {
@@ -14353,8 +14361,9 @@ figcaption {
   align-items: center;
 }
 
-.section-large-2 {
+.section-testimonios {
   position: relative;
+  display: block;
   margin-top: 18px;
   margin-bottom: 0px;
   padding: 120px 5% 0px;
@@ -18889,7 +18898,7 @@ figcaption {
   display: block;
   margin-left: 0px;
   padding: 140px 50px 10px;
-  background-color: #e2e8e8;
+  background-color: #57585b;
   color: #57585b;
 }
 
@@ -23451,7 +23460,7 @@ figcaption {
     padding-bottom: 72px;
   }
 
-  .section-large-2 {
+  .section-testimonios {
     padding-top: 72px;
     padding-bottom: 72px;
   }
