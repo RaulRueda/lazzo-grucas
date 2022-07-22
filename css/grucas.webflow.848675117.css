@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 02:59:04 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 05:58:30 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -6657,6 +6657,7 @@ figcaption {
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
+  font-family: Oswald, sans-serif;
   text-align: center;
   letter-spacing: 0.5px;
 }
@@ -9469,7 +9470,6 @@ figcaption {
   display: block;
   width: 100%;
   height: 80px;
-  background-color: #ee891e;
   -webkit-backdrop-filter: blur(6px);
   backdrop-filter: blur(6px);
 }
@@ -16731,6 +16731,11 @@ figcaption {
 
 .industria-container {
   display: block;
+  padding-top: 20px;
+}
+
+.industria-container:hover {
+  background-color: #e2e8e8;
 }
 
 .testimonial-arrow-right-2 {
@@ -16886,7 +16891,7 @@ figcaption {
 }
 
 .icon-bar {
-  padding: 5% 10px 4% 5px;
+  padding: 2% 10px 2% 5px;
   background-color: #f7f7f7;
 }
 
@@ -18677,6 +18682,28 @@ figcaption {
   line-height: 22px;
   font-weight: 700;
   text-align: center;
+}
+
+.bold-text-5 {
+  font-family: 'Acumin Pro', sans-serif;
+  font-size: 22px;
+}
+
+.titulos-industrias {
+  width: auto;
+  max-width: 70%;
+  padding: 15px 15px 0px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  font-family: 'Acumin Pro', sans-serif;
+  color: #57585b;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
 }
 
 @media screen and (min-width: 1280px) {
@@ -26885,6 +26912,17 @@ figcaption {
 }
 
 #w-node-_6a94fc5f-6d6f-982c-3c3a-e2dfdf72fc03-a122168a {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-cacbd35a-494e-3829-d8e6-3032df6e2cee-a122168a {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
