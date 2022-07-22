@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 05:58:30 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 06:18:20 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -10468,7 +10468,10 @@ figcaption {
 }
 
 .text-block-32 {
+  font-family: 'Founders Grotesk', sans-serif;
   color: #ee891e;
+  font-size: 18px;
+  font-weight: 300;
 }
 
 .icon-list-services-white {
@@ -18704,6 +18707,13 @@ figcaption {
   text-align: center;
   letter-spacing: 0.6px;
   text-transform: uppercase;
+}
+
+.empty-state-2 {
+  background-color: #e2e8e8;
+  font-family: 'Founders Grotesk', sans-serif;
+  color: #1a1a1a;
+  font-weight: 300;
 }
 
 @media screen and (min-width: 1280px) {
