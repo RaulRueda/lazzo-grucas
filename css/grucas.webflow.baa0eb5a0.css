@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 06:21:20 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 06:51:47 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -10424,6 +10424,7 @@ figcaption {
 
 .blog-card-small:hover {
   border-color: #57585b;
+  box-shadow: 5px 5px 6px -6px #000;
 }
 
 .grid-blog-top {
@@ -18037,6 +18038,7 @@ figcaption {
 }
 
 .blog-grid {
+  grid-auto-flow: row;
   grid-column-gap: 45px;
   grid-row-gap: 64px;
   grid-template-areas: ".";
@@ -18196,6 +18198,7 @@ figcaption {
 
 .blog-card-large:hover {
   border-color: #1a1a1a;
+  box-shadow: 5px 5px 6px -5px #57585b;
 }
 
 .paragraph-blog {
@@ -18715,6 +18718,68 @@ figcaption {
   font-family: 'Founders Grotesk', sans-serif;
   color: #1a1a1a;
   font-weight: 300;
+}
+
+.collection-list-wrapper {
+  display: block;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 45px;
+  grid-row-gap: 60px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.collection-list {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 45px;
+  grid-row-gap: 60px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.header-section-noticias {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  padding: 115px 5% 0px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #e2e8e8;
+  background-image: url("/images/62da469e4ee031f0f65f4e50_grucas-banner-noticias3.jpg");
+  background-position: 0px 0px;
+  background-size: cover;
+  color: #fff;
+}
+
+.titulo-blog-featured {
+  margin-bottom: 0px;
+  font-family: 'Acumin Pro', sans-serif;
+  color: #57585b;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.titulo-blog-featured.centrado {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.titulo-blog-featured.margin-bottom {
+  margin-bottom: 10px;
+  font-size: 38px;
 }
 
 @media screen and (min-width: 1280px) {
